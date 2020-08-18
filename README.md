@@ -42,6 +42,9 @@
 <br />
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
 
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
+
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
 [twitter]: https://twitter.com/vsvinit0
