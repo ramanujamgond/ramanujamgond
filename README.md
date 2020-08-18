@@ -1,4 +1,4 @@
-### Hi there, I'm Ramanujam Gond - aka [string1301] 👋
+### Hi there, I'm Ramanujam Gond - aka [string1301][website]! 👋
 
 ## I'm a Programmer, Artist, Illustrationist, and Aquascaper!
 
