@@ -42,14 +42,14 @@
 <br />
 
 ---
-<br />
-<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
-
-<br />
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+
+<br />
+<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
 
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
