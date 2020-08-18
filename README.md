@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to dream and draw illustrations
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.ramanujamgond.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/989umq8v9mzt065wlcbmaqgz0)
+[<img src="https://novatorem.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/omnitenebris)
 
 
 ### Connect with me:
