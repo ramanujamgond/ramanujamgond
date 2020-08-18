@@ -1,6 +1,9 @@
 ### Hi there, I'm Ramanujam Gond - aka [string1301][website]! 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/vsvinit0?color=%231DA1F2&label=Ramanujam%20Gond&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ## I'm a Programmer, Illustrationist, and Aquascaper!
 
