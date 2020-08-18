@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to dream and draw illustrations
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-readme.ramanujamgond.vercel.app/api/spotify-playing" alt="string1301 spotify playing" width="350" />](https://open.spotify.com/user/989umq8v9mzt065wlcbmaqgz0)
 
 
 ### Connect with me:
@@ -38,9 +38,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-
 <br />
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
+
+<br />
+
+<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
 
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
