@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramanujam Gond - aka [string1301][website]! 👋
 
-## I'm a Programmer, Artist, Illustrationist, and Aquascaper!
+## I'm a Programmer, Illustrationist, and Aquascaper!
 
 - 🔭 I’m currently working in [BookingJini Labs][companyWebsite]!
 - 🌱 I’m currently learning everything 🤣
@@ -36,6 +36,7 @@
 <br />
 
 ---
+<br />
 
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
 
