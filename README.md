@@ -1,4 +1,5 @@
 ### Hi there, I'm Ramanujam Gond - aka [string1301][website]! 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/vsvinit0?color=%231DA1F2&label=Ramanujam%20Gond&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
 
 ## I'm a Programmer, Illustrationist, and Aquascaper!
 
