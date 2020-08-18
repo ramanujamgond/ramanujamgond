@@ -45,8 +45,7 @@
 
 ### :zap: Recent Github Activity
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
 
 <br />
