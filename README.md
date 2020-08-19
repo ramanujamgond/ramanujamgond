@@ -39,7 +39,10 @@
 <br />
 
 <br />
-<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
+</details>
 
 <br />
 
