@@ -45,6 +45,8 @@
 
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
 
+<!--START_SECTION:activity-->
+
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
 [twitter]: https://twitter.com/vsvinit0
