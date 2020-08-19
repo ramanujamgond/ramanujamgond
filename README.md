@@ -45,8 +45,10 @@
 </details>
 
 <br />
-
-<img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
+<details>
+  <summary>:zap: Github Most Used Language</summary>
+  <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
+</details>
 
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
