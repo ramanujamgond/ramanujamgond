@@ -4,7 +4,7 @@ author: jamesgeorge007
 
 inputs:
   USERNAME:
-    description: 'Your GitHub username'
+    description: 'ramanujamgond'
     default: ${{ github.repository_owner }}
 
 branding:
