@@ -40,9 +40,8 @@
 
 <br />
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api?username=ramanujamgond&show_icons=true&theme=radical" />
-
+  
 <br />
-
 <img align="left" alt="ramanujamgond | string1301 Github Stat's" src="https://github-readme-stats.ramanujamgond.vercel.app/api/top-langs/?username=ramanujamgond&layout=compact&theme=radical" />
 
 [website]: https://github.com/ramanujamgond
