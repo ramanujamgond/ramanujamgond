@@ -12,8 +12,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dream and draw illustrations
 
+<!--
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.ramanujamgond.vercel.app/api/spotify-playing" alt="string1301 spotify playing" width="350" />](https://open.spotify.com/user/989umq8v9mzt065wlcbmaqgz0)
+-->
 
 
 ### Connect with me:
