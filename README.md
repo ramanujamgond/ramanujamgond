@@ -7,9 +7,9 @@
 
 ### I'm a Programmer, Illustrationist, and Aquascaper!
 
-- 🔭 I’m currently working in [BookingJini Labs][companyWebsite]!
+- 🔭 Building Unicorn in East India || [BookingJini Labs][companyWebsite]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn CSS animation, Flex, Grid and JS Core Concepts
+- 🥅 2022 Goals: Learn JS, ReactJs, DS Also
 - ⚡ Fun fact: I love to dream and draw illustrations
 
 <!--
