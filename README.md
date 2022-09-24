@@ -46,7 +46,7 @@
 
 [website]: https://github.com/ramanujamgond
 [companyWebsite]: http://business.bookingjini.com/
-[twitter]: https://twitter.com/vsvinit0
+[twitter]: https://twitter.com/string1301
 [instagram]: https://www.instagram.com/string_1301/
 [linkedin]: https://www.linkedin.com/in/ramanujamgond/
 [facebook]: https://www.facebook.com/vsvinit0/
