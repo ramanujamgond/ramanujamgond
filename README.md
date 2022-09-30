@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+[![@string1301's Holopin board](https://holopin.io/api/user/board?user=string1301)](https://holopin.io/@string1301)
 ### I'm a Programmer, Illustrationist, and Aquascaper!
 
 - 🔭 Building Unicorn in East India || [[BookingJini Labs](https://bookingjini.com/)]!
