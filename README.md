@@ -10,7 +10,7 @@
 
 - 🔭 Building Unicorn in East India || [[BookingJini Labs](https://bookingjini.com/)]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn JS, ReactJs, DS Algo
+- 🥅 2023 DS Algo
 - ⚡ Fun fact: I love to dream and draw illustrations
 
 <!--
